@@ -52,7 +52,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-Open http://127.0.0.1:5000. On first run the database, sample trips and the two test accounts below
+Open file:///C:/Users/admin/Downloads/partas_bus_booking_web_app.html. On first run the database, sample trips and the two test accounts below
 are created automatically. A session secret is generated into `instance/secret.key` (git-ignored); you
 can override it with the `SECRET_KEY` environment variable.
 
